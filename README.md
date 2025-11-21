@@ -1,17 +1,6 @@
-# Sounds pt_BR Issabel.
-```text
-        By Marcel Savegnago <marcel.savegnago@gmail.com>
-        And https://www.asterisksounds.org/pt-br
-```
+# Sons para o Asterisk
+Esse repositório contém os arquivos de som mais comuns para uso em ambientes com Asterisk, seja qualquer distribuição que você utilize.
 
-## Instalação
+Os arquivos devem ser colocados, geralmente, em ```/var/lib/asterisk/sounds``` e as músicas de espera na pasta ```/var/lib/asterisk/moh```.
 
-```
-  cd
-  git clone https://github.com/marcelsavegnago/issabel_sounds_pt_BR.git
-  cd dir issabel_sounds_pt_BR
-  mv ./pt_BR /var/lib/asterisk/sounds/
-```
-
----
-[Asterisk Sounds]: https://www.asterisksounds.org/pt-br
+Foram removidos os áudios, da lingaugem em Português, que tinham a fala robótica, ao estilo _Google Translate_ e mantidos os áudios com linguagem natural.
